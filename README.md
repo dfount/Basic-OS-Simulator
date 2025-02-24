@@ -28,8 +28,8 @@ Basic-OS-Simulator-main/
 Each version represents an incremental improvement or different approach to solving OS-related tasks.
 
 ## Download Specific Versions
-- [Download Part_1/Version 1](https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%201)
-- [Download Part_1/Version 2](https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%202)
+- [Download Part_1/Version 1](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%201)
+- [Download Part_1/Version 2](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%202)
 
 ## Installation & Usage
 1. Clone the repository:
