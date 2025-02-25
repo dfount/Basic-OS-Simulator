@@ -43,6 +43,7 @@ If you are using VSCode (or another IDE with Git support), you can download the 
 
 - [Download Part\_1/Version 1](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%201)
 - [Download Part\_1/Version 2](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%202)
+- [Download Part\_1/Version 3](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%203)
 
 ## Warnings & Important Notes
 - **Educational Purpose:** This project is intended for educational purposes only. It is not designed for production environments.
