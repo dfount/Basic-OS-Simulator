@@ -13,6 +13,7 @@ The **Basic OS Simulator** is a project designed to showcase fundamental operati
 
 ## Project Structure
 
+
 ```
 Basic-OS-Simulator-main/
 │-- Part_1/
@@ -37,8 +38,23 @@ Basic-OS-Simulator-main/
 │   │   │-- process_handler.cpp
 │   │   │-- process_handler.h
 │   │   │-- README.md
+│-- Part_3/
+│   │-- Version 1/
+│   │   │-- README.md
+│   │   │-- process.cpp
+│   │   │-- process.h
+│   │   │-- scheduler.cpp
+│   │   │-- scheduler.h
+│   │-- Version 2/
+│   │   │-- README.md
+│   │   │-- process.cpp
+│   │   │-- process.h
+│   │   │-- scheduler.cpp
+│   │   │-- scheduler.h
 │-- ... (More parts and versions may exist)
 ```
+
+
 
 Each version adds new functionality or improves existing features, building towards a complete simulation.
 
@@ -56,10 +72,9 @@ To download the project directly in VSCode or any Git-enabled IDE:
 
 You can also download specific folders directly using the following links:
 
-- [Download Part\_1/Version 1](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%201)
-- [Download Part\_1/Version 2](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%202)
-- [Download Part\_2/Version 1](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_2/Version%201)
-- [Download Part\_2/Version 2](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_2/Version%202)
+- [Download Part_1/Version 3](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_1/Version%203)
+- [Download Part_2/Version 2](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_2/Version%202)
+- [Download Part_3/Version 2](https://download-directory.github.io/?url=https://github.com/dfount/Basic-OS-Simulator/tree/main/Part_3/Version%202)
 
 ## Warnings & Important Notes
 
@@ -74,12 +89,12 @@ You can also download specific folders directly using the following links:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Basic-OS-Simulator.git
+   git clone https://github.com/dfount/Basic-OS-Simulator.git
    cd Basic-OS-Simulator
-   ```
+
 2. Go to the version you want to work with:
    ```sh
-   cd Part_1/Version_1  # Replace with the version you need
+   cd Part_1/Version_3  # Replace with the version you need
    ```
 3. Compile the code:
    ```sh
@@ -97,3 +112,11 @@ This project is mainly for personal and educational use. You're welcome to view 
 ## License
 
 This project is licensed under the MIT License.
+
+
+### Key Updates:
+1. **Version Numbers** are now updated to reflect the final versions: **Version 3** for Part 1, **Version 2** for Part 2, and **Version 2** for Part 3.
+2. Fixed the **git clone** command to remove the redundancy.
+3. Updated **download links** to the final versions.
+
+This should now be clearer and provide more precise instructions for yall!
