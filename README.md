@@ -28,6 +28,12 @@ Basic-OS-Simulator-main/
 │   │   │-- auth_handler.cpp
 │   │   │-- auth_handler.h
 │   │   │-- README.md
+│   │-- Version 3/
+│   │   │-- auth.cpp
+│   │   │-- auth.h
+│   │   │-- auth_handler.cpp
+│   │   │-- auth_handler.h
+│   │   │-- README.md
 │-- Part_2/
 │   │-- Version 1/
 │   │   │-- process.cpp
@@ -52,7 +58,32 @@ Basic-OS-Simulator-main/
 │   │   │-- process.h
 │   │   │-- scheduler.cpp
 │   │   │-- scheduler.h
-│-- ... (More parts and versions may exist)
+│-- Part_4/
+│   │-- Version 1/
+│   │   │-- main.cpp
+│   │   │-- MemoryManager.cpp
+│   │   │-- MemoryManager.h
+│   │   │-- PageTableEntry.cpp
+│   │   │-- PageTableEntry.h
+│-- Version 2/
+│   │   │-- main.cpp
+│   │   │-- MemoryManager.cpp
+│   │   │-- MemoryManager.h
+│   │   │-- PageTableEntry.cpp
+│   │   │-- PageTableEntry.h
+│-- Version 3/
+│   │   │-- main.cpp
+│   │   │-- MemoryManager.cpp
+│   │   │-- MemoryManager.h
+│   │   │-- PageTableEntry.cpp
+│   │   │-- PageTableEntry.h
+│   │-- Version 4/
+│   │   │-- main.cpp
+│   │   │-- MemoryManager.cpp
+│   │   │-- MemoryManager.h
+│   │   │-- PageTableEntry.cpp
+│   │   │-- PageTableEntry.h
+│   │   │-- README.md
 ```
 
 
